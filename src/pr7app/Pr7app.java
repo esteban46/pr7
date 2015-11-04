@@ -17,7 +17,7 @@ public class Pr7app {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola profes!");
+        System.out.println("Hola profes2!");
     }
     
 }
